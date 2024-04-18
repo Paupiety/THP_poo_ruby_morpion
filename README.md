@@ -1,0 +1,6 @@
+- player : création des joueurs
+- board : création du board et méthodes pour mettre à jour le board
+- boardcase : création d'un array pour créer les cases du morpion
+- game : création de la partie + éxecution de méthodes pour le déroulement de la partie
+- show : montrer le board en grille
+- app : éxecuter le programme
